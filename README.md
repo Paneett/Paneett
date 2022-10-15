@@ -12,12 +12,10 @@
   
   <h3>Projects<h3>
     <ul>
-    
       <h4>Java</h4>
         <ul>
           <li><a href="https://gist.github.com/Paneett/367ca417e41d836d36628704a542603d">TicTacToe Game</a></li>
         </ul>
-        
       <h4>Python</h4>
       <ul>
         <li><a href="https://gist.github.com/Paneett/cc8fc7b0cb207de6f8238ba6023a1037">TicTacToe Game</a> </li>
