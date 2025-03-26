@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Paneet Dhaliwal
 
-Welcome to my GitHub portfolio! I'm a student at Stony Brook University passionate about full-stack development, machine learning, and solving real-world problems through code. I enjoy building apps, exploring AI, and crafting thoughtful technical solutions.
+Welcome to my GitHub portfolio! I'm a Computer Science student at Stony Brook University passionate about full-stack development, machine learning, and solving real-world problems through code. I enjoy building apps, exploring AI, and crafting thoughtful technical solutions.
 
 ---
 
-## Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio! I'm a student at Stony Brook University passiona
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 📬 [OutlookLite](https://github.com/Paneett/OutlookLite)
 > A modern, full-stack Outlook-style email client.
@@ -63,12 +63,18 @@ Welcome to my GitHub portfolio! I'm a student at Stony Brook University passiona
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Links
 
-- 📧 paneetd2004@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/paneett/)  
-- 🔗 [GitHub](https://github.com/Paneett)  
+[![Email Badge](https://img.shields.io/badge/Send%20Email-grey?style=for-the-badge&logo=gmail)](mailto:paneetd13@gmail.com?subject=Hi%20Paneet!%20%7C%20Mail%20from%20GitHub&body=Hi%20Paneet%2C%20I%20saw%20your%20GitHub%20profile%20and...)
+[![LinkedIn Badge](https://img.shields.io/badge/My_Linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paneett/)
+[![Replit Badge](https://img.shields.io/badge/My_Replit-gray?style=for-the-badge&logo=replit)](https://replit.com/@Paneett)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paneett&layout=compact&theme=default)
+
+---
 
 Thanks for stopping by! 😊
-
-
