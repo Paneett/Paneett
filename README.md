@@ -65,9 +65,8 @@ Welcome to my GitHub portfolio! I'm a Computer Science student at Stony Brook Un
 
 ## 📫 Contact & Links
 
-[![Email Badge](https://img.shields.io/badge/Send%20Email-grey?style=for-the-badge&logo=gmail)](mailto:paneetd13@gmail.com?subject=Hi%20Paneet!%20%7C%20Mail%20from%20GitHub&body=Hi%20Paneet%2C%20I%20saw%20your%20GitHub%20profile%20and...)
+[![Email Badge](https://img.shields.io/badge/Send%20Email-grey?style=for-the-badge&logo=gmail)](mailto:paneetd2004@gmail.com?subject=Hi%20Paneet!%20%7C%20Mail%20from%20GitHub&body=Hi%20Paneet%2C%20I%20saw%20your%20GitHub%20profile%20and...)
 [![LinkedIn Badge](https://img.shields.io/badge/My_Linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paneett/)
-[![Replit Badge](https://img.shields.io/badge/My_Replit-gray?style=for-the-badge&logo=replit)](https://replit.com/@Paneett)
 
 ---
 
