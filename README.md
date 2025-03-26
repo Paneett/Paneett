@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paneet Dhaliwal
 
-Welcome to my GitHub portfolio! I'm a Computer Science student at Stony Brook University passionate about full-stack development, machine learning, and solving real-world problems through code. I enjoy building apps, exploring AI, and crafting thoughtful technical solutions.
+Welcome to my GitHub portfolio! I'm a student at Stony Brook University passionate about full-stack development, machine learning, and solving real-world problems through code. I enjoy building apps, exploring AI, and crafting thoughtful technical solutions.
 
 ---
 
