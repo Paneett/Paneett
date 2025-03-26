@@ -73,7 +73,6 @@ Welcome to my GitHub portfolio! I'm a Computer Science student at Stony Brook Un
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paneett&layout=compact&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paneett&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
